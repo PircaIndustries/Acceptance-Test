@@ -1,4 +1,4 @@
-Feature: US-13: Registro de Merma de Material
+Feature: US-13: Registrar merma de materiales
 
   Como miembro del Equipo de Logística,
   quiero registrar las mermas de materiales con evidencia fotográfica,
