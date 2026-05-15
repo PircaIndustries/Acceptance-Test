@@ -1,4 +1,4 @@
-Feature: US-35: Actualización de Datos de Contacto de Proveedor
+Feature: US-35: Modificar perfil de proveedor
 
   Como miembro del Equipo de Logística,
   quiero actualizar los datos de contacto de proveedores existentes,
