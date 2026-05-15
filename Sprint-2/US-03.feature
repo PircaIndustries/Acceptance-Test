@@ -1,4 +1,4 @@
-Feature: US-03: Generación de Solicitud de Requerimiento de Materiales
+Feature: US-03: Solicitar materiales formalmente
 
   Como Gestor Operativo,
   quiero generar solicitudes formales de requerimiento de materiales,
