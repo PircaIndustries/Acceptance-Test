@@ -1,4 +1,4 @@
-Feature: US-34: Registro de Nuevo Proveedor
+Feature: US-34: Registrar perfil de proveedor
 
   Como miembro del Equipo de Logística,
   quiero registrar nuevos proveedores con sus datos completos,
